@@ -1,3 +1,19 @@
+.navBar{
+  padding: 20px;
+  background-color: blanchedalmond;
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+}
+
 .App {
   text-align: center;
 }
