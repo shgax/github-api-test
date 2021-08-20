@@ -10,10 +10,18 @@ The landing page where you could be consult users from Github
 - [Official Github Api Documentation](https://docs.github.com/es/rest)
 - [Semantic UI React](https://react.semantic-ui.com/usage)
 
+## Steps for install and run project !!
+- [x] Download project from Github <code>git clone git@github.com:shgax/github-api-test.git</code>
+- [x] Move to project <code>cd github-api-test/reactproject</code>
+- [x] Install library <code>npm install semantic-ui-react semantic-ui-css</code>
+- [x] Run project <code> npm start </code> 
+
+
 ## Include in this Project !!
 - [x] Configuration with Vistual Studio Code
 - [x] File in Css
 - [x] File in HTML
+- [ ] File in Js
 - [x] Get started section in the readme
 - [x] Support for Mac 
 
